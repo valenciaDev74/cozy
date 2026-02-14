@@ -1,0 +1,7 @@
+astral==3.2
+pyqt6==6.10.2
+pyqt6-qt6==6.10.2
+pyqt6-sip==13.11.0
+python-xlib==0.33
+ruff==0.15.0
+six==1.17.0
